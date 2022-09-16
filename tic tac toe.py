@@ -2,7 +2,7 @@ import random,sys
 def main():
     n=[j for j in range(1,10)]
     board=[' ' for i in range (9)]
-    print('Welcome to TIC-TAC-TOE')
+    print('Welcome to TIC-TAC-TOE ')
     print('\n')
 
     
